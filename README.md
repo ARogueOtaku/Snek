@@ -7,7 +7,7 @@
 - Javascript.
 
 ### Bugs:
--Food may sometimes spawn on Snake body causing it to disappear.
+- Food may sometimes spawn on Snake body causing it to disappear.
 
 ### Controls:
 | Control | Key |
